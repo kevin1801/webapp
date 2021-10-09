@@ -28,19 +28,19 @@ class Header extends Component{
          <div className="row banner">
             <div className="banner-text">
 
-               <h1 className="responsive-headline">I'm Yu Liu</h1>
+               <h1 className="responsive-headline">I'm Kun Zhang</h1>
                <h3 className="banner-text-title">
-               <span>I'm a Melbourne based  </span>
-               <span className='position-title'><TypingTexts items={['Web Designer','Front-end Developer','UI & UX Designer','Illustrator']} /> </span>
+               <span>I'm a China based  </span>
+               <span className='position-title'><TypingTexts items={['Web Designer','Front-end Developer','UI & UX Designer']} /> </span>
                </h3>
                  <h3>I'm always on my way creating awesome and
                effective visual identities for companies of all sizes around the globe. </h3>
                <hr />
                <ul className="social">
-                  <li><a href="https://www.facebook.com/jim.liu.1884?ref=bookmarks" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a></li>
-                  <li><a href="https://www.linkedin.com/in/yuliu04" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a></li>
-                  <li><a href="https://github.com/jimyu0414" target="_blank" rel="noopener noreferrer" ><i className="fab fa-github"></i></a></li>
-                  <li><a href="https://dribbble.com/jimyu0414" target="_blank" rel="noopener noreferrer"><i className="fab fa-dribbble"></i></a></li>
+                  <li><a href="https://www.google.com.au" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a></li>
+                  <li><a href="https://www.google.com.au" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a></li>
+                  <li><a href="https://www.google.com.au" target="_blank" rel="noopener noreferrer" ><i className="fab fa-github"></i></a></li>
+                  <li><a href="https://www.google.com.au" target="_blank" rel="noopener noreferrer"><i className="fab fa-dribbble"></i></a></li>
                </ul>
             </div>
          </div>

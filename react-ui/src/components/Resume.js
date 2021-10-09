@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { Element } from 'react-scroll';
 import WorkTag from './widgets/WorkTag';
-import LogoSwinburne from '../img/swinburne.png';
+import LogoCurtin from '../img/curtin.png';
 import LogoJustGroup from '../img/justgroup.gif';
 import LogoLadoo from '../img/ladoo.png';
 import LogoCentrora from '../img/centrora.png';
@@ -42,14 +42,14 @@ class Resume extends Component {
                     <div className="twelve columns">
 
                        <h3>
-                         Swinburne University of Technology
-                         <img src={LogoSwinburne} alt='logo-swinburne'/>
+                         xxxx University 
+                         {/* <img src={LogoCurtin} alt='logo-curtin'/> */}
                        </h3>
-                       <p className="info">Master of &nbsp;IT <span>&bull;</span> <em className="date">2012 - 2014</em></p>
+                       <p className="info">Master  <span>&bull;</span> <em className="date">2012 - 2014</em></p>
 
                        <ul>
-                        <li>High distinction (85%) in software development major </li>
-                         <li>Overall high distinction average (78%) achieved to date </li>
+                        <li>High distinction (85%) in  </li>
+                         <li>Overall High </li>
                        </ul>
 
                        <p className="resume__subject-title">Relevant Subjects:</p>
@@ -69,17 +69,16 @@ class Resume extends Component {
                     <div className="twelve columns">
 
                        <h3>
-                       Swinburne University of Technology
-                        <img src={LogoSwinburne} alt='logo-swinburne' />
+                       xxx University 
+                        <img src={LogoCurtin} alt='logo-curtin' />
                       </h3>
-                       <p className="info">Bachelor of Digital Design (Multimedia) <span>&bull;</span> <em className="date">2009 - 2012</em></p>
+                       <p className="info">Bachelor of Chemical Engineering <span>&bull;</span> <em className="date">2002- 2006</em></p>
 
                        <p className="resume__subject-title">Relevant Subjects:</p>
                          <ul className="resume__subject-list">
-                          <li>Graphic Design </li>
-                          <li>Web Design</li>
-                          <li>Motion Typography, Flash & 2D Animation</li>
-                          <li>Film and movie, footage editing</li>
+                          <li>xxxxx </li>
+                          <li>xxxxx</li>
+                          <li>xxxxx</li>
                           <li>Character Design 3D Modelling and Animation</li>
                          </ul>
 
@@ -131,24 +130,8 @@ class Resume extends Component {
                      }
                      projectlink= {<NavLink to="/portfolio/web">Reference / Projects ></NavLink>}
                      />
-                     <WorkTag
-                       company="Centrora"
-                       logo={<img className="logo-centrora" src={LogoCentrora} alt='logo-centrora'/>}
-                       title="Front-end Developer"
-                       year="Dec 2015 – Sep 2016"
-                       desc={
-                         <ul>
-                         <li>Improve the UI of Centrora new control panel.</li>
-                         <li>Using Photoshop and Illustrator to create mockups for the front-end layout of Centrora System</li>
-                          <li>Applying PHP and CSS language in improving front-end layouts of web security system.</li>
-                          <li>Cross browser testing to ensure front-end UI is user friendly and working properly.</li>
-                          <li>Maintain Centrora website with CMS (Wordpress).</li>
-                         </ul>
-                       }
-                       projectlink= {<NavLink to="/portfolio/web">Reference / Projects ></NavLink>}
-                       />
-
-
+                
+                    
               </div>
 
            </div>
@@ -163,17 +146,17 @@ class Resume extends Component {
               <div className="nine columns main-col">
 
          <div className="bars">
-            <h3>Designer Skills</h3>
+            {/* <h3>Designer Skills</h3> */}
                 <ul className="skills">
                   <li>
                   <span className="bar-expand photoshop"></span><em>Photoshop</em>
                   </li>
-                  <li>
+                  {/* <li>
                        <span className="bar-expand illustrator"></span><em>Illustrator</em>
-                  </li>
+                  </li> */}
                </ul>
 
-               <h3>Dev Skills</h3>
+               {/* <h3>Dev Skills</h3> */}
                <ul className="skills">
                <li>
                <span className="bar-expand html5"></span><em>HTML5</em>
@@ -184,9 +167,9 @@ class Resume extends Component {
                <li>
                <span className="bar-expand jquery"></span><em>JavaScript / jQuery / React</em>
               </li>
-              <li>
+              {/* <li>
               <span className="bar-expand php"></span><em>PHP / JSP / Objective-C / Java</em>
-             </li>
+             </li> */}
               <li>
               <span className="bar-expand wordpress"></span><em>Git / SVN ( GitHub, Bitbucket )</em>
             </li>

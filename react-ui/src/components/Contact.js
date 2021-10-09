@@ -131,10 +131,10 @@ class Contact extends Component {
 
           <h4>Address and Phone</h4>
           <p className="address">
-            Yu Liu ( Jim )<br />
-            3/13 - 15 Dixon st <br />
-            Clayton, vic 3168<br />
-            <span>(61) 0410 470 100</span>
+            Kun Zhang<br />
+            Huizhou City <br />
+            Guangdong, China<br />
+            <span>(+86) 134 </span>
           </p>
 
         </div>

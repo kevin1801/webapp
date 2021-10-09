@@ -26,7 +26,7 @@ class About extends Component {
 
   <div className="three columns">
 
-            <div className="my-avatar"></div>
+            {/* <div className="my-avatar"></div> */}
 
            </div>
 
@@ -36,11 +36,11 @@ class About extends Component {
                   <h2>About Me</h2>
 
                   <p>
-                    I started my bachelor in Digital design in 2010. For years, I’ve been learning logo design, UI&UX design, motion graphic and web design etc.
+                     I’ve been learning logo design, UI&UX design, motion graphic and web design etc.
                   <br/>
-                    In 2014. I continued my study and change my subject to Master of  IT.  During my study, I have learned the basic web languages (HTML,CSS,JS) and  object  oriented concepts (Java), also some basic database managements (Oracle, MySQL). During my last year (2016), I was honoured to work out an internship project as an IOS developer and completed an on-store App written by Object-c.
+                     I have learned the basic web languages (HTML,CSS,JS) and  object  oriented concepts (Java), also some basic database managements (Oracle, MySQL).
                   <br/>
-                    After my graduation, I started to work  on web developments .  Based on my Digital background,  I quickly  get used to work as a front-end developer. For years, I’ve been working on many inspirations of UI&UX designs and developments.
+                     I started to work  on web developments .  Based on my Digital background,  I quickly  get used to work as a front-end developer. For years, I have been working on many inspirations of UI&UX designs and developments.
                   </p>
                 </div>
               </div>
@@ -53,19 +53,19 @@ class About extends Component {
 
                      <h2>Contact Details</h2>
                      <p className="address">
-   						   <span>Yu Liu</span><br/>
-   						   <span> 457 St Kilda Rd,<br/>
-   						         Melbourne VIC 3004
+   						   <span>Kun Zhang</span><br/>
+   						   <span> Huizhou City<br/>
+   						         Guangdong, China
                         </span><br/>
-                      <span>(61) 0410 470 100</span><br/>
-                        <span>jimyu0414@gmail.com</span>
+                      <span>(86) 134 </span><br/>
+                        <span>jg@hotmail.com</span>
    					   </p>
 
                   </div>
 
                   <div className="columns download">
                      <p>
-                        <a href={process.env.PUBLIC_URL + '/Yu.pdf'} className="button" download><i className="fa fa-download"></i>Download Resume</a>
+                        <a href={process.env.PUBLIC_URL + '/1.pdf'} className="button" download><i className="fa fa-download"></i>Download Resume</a>
                    </p>
                   </div>
 

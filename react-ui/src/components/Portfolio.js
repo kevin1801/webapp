@@ -30,7 +30,7 @@ class About extends Component {
         <ul>
         <li><NavLink  to="/portfolio/web">Web</NavLink></li>
         <li><NavLink  to="/portfolio/graphics">Graphics</NavLink></li>
-        <li><NavLink  to="/portfolio/videos">Videos</NavLink></li>
+        {/* <li><NavLink  to="/portfolio/videos">Videos</NavLink></li> */}
         </ul>
       </div>
 
