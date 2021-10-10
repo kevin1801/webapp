@@ -36,11 +36,12 @@ class About extends Component {
                   <h2>About Me</h2>
 
                   <p>
-                     I’ve been learning logo design, UI&UX design, motion graphic and web design etc.
+                  Well, about me, I love programming: it is kind of building amazing things just using a text editor. 
                   <br/>
-                     I have learned the basic web languages (HTML,CSS,JS) and  object  oriented concepts (Java), also some basic database managements (Oracle, MySQL).
+                  I remember when I was a child and played video-games that I had a better time creating custom levels or even modifying a video-game by making a mod than actually playing it. 
                   <br/>
-                     I started to work  on web developments .  Based on my Digital background,  I quickly  get used to work as a front-end developer. For years, I have been working on many inspirations of UI&UX designs and developments.
+                  I have a pretty good level of web technologies:  HTML, CSS, JavaScript (both from Node.js and the web browser), although I am focused on React.
+                  
                   </p>
                 </div>
               </div>
@@ -54,11 +55,8 @@ class About extends Component {
                      <h2>Contact Details</h2>
                      <p className="address">
    						   <span>Kun Zhang</span><br/>
-   						   <span> Huizhou City<br/>
-   						         Guangdong, China
-                        </span><br/>
-                      <span>(86) 134 </span><br/>
-                        <span>jg@hotmail.com</span>
+   						  
+                        <span>kevinkunzhangui@gmail.com</span>
    					   </p>
 
                   </div>

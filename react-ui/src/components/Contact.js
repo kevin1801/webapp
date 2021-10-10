@@ -129,12 +129,11 @@ class Contact extends Component {
 
             <div className="widget widget_contact">
 
-          <h4>Address and Phone</h4>
+          <h4> Email</h4>
           <p className="address">
             Kun Zhang<br />
-            Huizhou City <br />
-            Guangdong, China<br />
-            <span>(+86) 134 </span>
+          
+            <span>kevinkunzhangui@hotmail.com</span>
           </p>
 
         </div>
@@ -146,8 +145,7 @@ class Contact extends Component {
                <ul id="twitter">
                   <li>
                      <span>
-                     This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                     Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
+                     It is always good to look around
                      </span>
                      <b>2 Days Ago</b>
                   </li>

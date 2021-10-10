@@ -42,29 +42,18 @@ class Resume extends Component {
                     <div className="twelve columns">
 
                        <h3>
-                         xxxx University 
+                         Nanjing University of Technology
                          {/* <img src={LogoCurtin} alt='logo-curtin'/> */}
                        </h3>
-                       <p className="info">Master  <span>&bull;</span> <em className="date">2012 - 2014</em></p>
+                       {/* <p className="info">Bachelor  <span>&bull;</span> <em className="date"></em></p> */}
 
-                       <ul>
-                        <li>High distinction (85%) in  </li>
-                         <li>Overall High </li>
-                       </ul>
-
-                       <p className="resume__subject-title">Relevant Subjects:</p>
-                         <ul className="resume__subject-list">
-                          <li>Web Development</li>
-                          <li>Software Development in Java</li>
-                          <li>Database Analysis and design</li>
-                          <li>iOS Mobile Application Development</li>
-                         </ul>
+                       
 
                     </div>
 
                  </div>
 
-                 <div className="row item">
+                 {/* <div className="row item">
 
                     <div className="twelve columns">
 
@@ -84,7 +73,7 @@ class Resume extends Component {
 
                     </div>
 
-                 </div>
+                 </div> */}
 
               </div>
 
@@ -104,7 +93,7 @@ class Resume extends Component {
                    company="The Just Group"
                    logo={<img className="logo-jg" src={LogoJustGroup} alt='logo-justgroup'/>}
                    title="Web Designer & Front-end Developer"
-                   year="Aug 2017 - Present"
+                   year="Aug 2020- Present"
                    desc={
                      <ul>
                        <li>Building series of new responsive commercial websites for Just Group's brands, ( Just Jeans, Dotti,Peteralexander, JayJays, Smiggle, etc. project in 09/17 - 09/18)</li>
@@ -119,7 +108,7 @@ class Resume extends Component {
                      company="Ladoo"
                      logo={<img className="logo-ladoo" src={LogoLadoo} alt='logo-ladoo'/>}
                      title="Front-end Developer"
-                     year="Sep 2016 – May 2017"
+                     year="Mar 2019 – May 2020"
                      desc={
                        <ul>
                          <li>Write BEM standard responsive compliant HTML code and Sass Frameworks.</li>
