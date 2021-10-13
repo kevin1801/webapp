@@ -41,10 +41,13 @@ class Resume extends Component {
 
                     <div className="twelve columns">
 
-                       <h3>
-                         Nanjing University of Technology
+                       
+                         <h4>Nanjing University of Technology</h4>
+                         
+                         <h4>Curtin University</h4>
+                         
                          {/* <img src={LogoCurtin} alt='logo-curtin'/> */}
-                       </h3>
+                      
                        {/* <p className="info">Bachelor  <span>&bull;</span> <em className="date"></em></p> */}
 
                        
@@ -96,7 +99,7 @@ class Resume extends Component {
                    year="Aug 2020- Present"
                    desc={
                      <ul>
-                       <li>Building series of new responsive commercial websites for Just Group's brands, ( Just Jeans, Dotti,Peteralexander, JayJays, Smiggle, etc. project in 09/17 - 09/18)</li>
+                       <li>Building series of new responsive commercial websites for Just Group's brands, ( Just Jeans, Dotti,Peteralexander, JayJays, Smiggle, etc.)</li>
                        <li>UI/UX Design & Development. (Recent projects in year 18: category page add to bag, pay later options, etc.</li>
                        <li>Bug Fixing, Site maintenance and enhancements to improve overall site performance.</li>
                        <li>Cross browsing / Cross Device Testing.</li>

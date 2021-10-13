@@ -63,7 +63,7 @@ class About extends Component {
 
                   <div className="columns download">
                      <p>
-                        <a href={process.env.PUBLIC_URL + '/1.pdf'} className="button" download><i className="fa fa-download"></i>Download Resume</a>
+                        <a href={process.env.PUBLIC_URL + '/cv.pdf'} className="button" download><i className="fa fa-download"></i>Download Resume(简历）</a>
                    </p>
                   </div>
 
